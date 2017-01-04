@@ -1,0 +1,13 @@
+D:\Krzysztof Pietraszko\Pociag\Pociag\bin\Debug\Pociag.exe.config
+D:\Krzysztof Pietraszko\Pociag\Pociag\obj\Debug\Pociag.csprojResolveAssemblyReference.cache
+D:\Krzysztof Pietraszko\Pociag\Pociag\obj\Debug\MainWindow.baml
+D:\Krzysztof Pietraszko\Pociag\Pociag\obj\Debug\MainWindow.g.cs
+D:\Krzysztof Pietraszko\Pociag\Pociag\obj\Debug\App.g.cs
+D:\Krzysztof Pietraszko\Pociag\Pociag\obj\Debug\Pociag_MarkupCompile.cache
+D:\Krzysztof Pietraszko\Pociag\Pociag\obj\Debug\Pociag.g.resources
+D:\Krzysztof Pietraszko\Pociag\Pociag\obj\Debug\Pociag.Properties.Resources.resources
+D:\Krzysztof Pietraszko\Pociag\Pociag\obj\Debug\Pociag.csproj.GenerateResource.Cache
+D:\Krzysztof Pietraszko\Pociag\Pociag\bin\Debug\Pociag.exe
+D:\Krzysztof Pietraszko\Pociag\Pociag\bin\Debug\Pociag.pdb
+D:\Krzysztof Pietraszko\Pociag\Pociag\obj\Debug\Pociag.exe
+D:\Krzysztof Pietraszko\Pociag\Pociag\obj\Debug\Pociag.pdb
